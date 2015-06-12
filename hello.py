@@ -1,1 +1,2 @@
+encoding "GBK"
 echo "hello"
